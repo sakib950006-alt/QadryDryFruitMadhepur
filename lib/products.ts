@@ -28,7 +28,7 @@ export const products: Product[] = [
   },
   {
     id: '2',
-    name: 'Cashews Supreme',
+    name: 'Anjeer',
     category: 'Nuts',
     price: 599,
     originalPrice: 800,
@@ -41,7 +41,7 @@ export const products: Product[] = [
   },
   {
     id: '3',
-    name: 'Organic Walnuts',
+    name: 'kaju',
     category: 'Nuts',
     price: 150,
     originalPrice: 200,
