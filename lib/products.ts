@@ -15,7 +15,7 @@ export interface Product {
 export const products: Product[] = [
   {
     id: '1',
-    name: 'kaju',
+    name: 'Kaju',
     category: 'Nuts',
     price: 400,
     originalPrice: 500,
@@ -28,7 +28,7 @@ export const products: Product[] = [
   },
   {
     id: '2',
-    name: 'Cashews Supreme',
+    name: 'Anjeer',
     category: 'Nuts',
     price: 599,
     originalPrice: 800,
@@ -41,7 +41,7 @@ export const products: Product[] = [
   },
   {
     id: '3',
-    name: 'Organic Walnuts',
+    name: 'Kaju',
     category: 'Nuts',
     price: 150,
     originalPrice: 200,
