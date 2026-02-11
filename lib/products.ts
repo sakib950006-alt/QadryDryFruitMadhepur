@@ -41,11 +41,7 @@ export const products: Product[] = [
   },
   {
     id: '3',
-<<<<<<< HEAD
     name: 'Kaju',
-=======
-    name: 'kaju',
->>>>>>> b91bd70c208cfd3de26bcb404ec5aae166a78a90
     category: 'Nuts',
     price: 150,
     originalPrice: 200,
